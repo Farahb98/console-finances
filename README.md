@@ -12,6 +12,9 @@ Javascript Code that analyses financial records
 
 Javascript Code that analyses financial records
 
+Git repo: https://github.com/Farahb98/console-finances.git
+Deployed URL: https://farahb98.github.io/console-finances/
+
 ## Usage
 
 Open console log to able to see the data
@@ -27,3 +30,7 @@ Open console log to able to see the data
 ## License
 
 MIT
+
+
+![image](https://github.com/Farahb98/console-finances/assets/136191926/b06c64e6-6728-42de-93a0-fb4b5583d321)
+
